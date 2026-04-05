@@ -2,7 +2,7 @@
 
   ## Bioinformatics Projects
 
-  This section includes tools and utilities related to bioinformatics workflows, data parsing, and analysis.
+  This section includes tools related to bioinformatics 
 
   - [VCF_Analyzer](https://github.com/BaptisteHerlemont/VCF_Analyzer)
   - [Fake_bioinfo_data_maker](https://github.com/BaptisteHerlemont/Fake_bioinfo_data_maker)
@@ -12,7 +12,7 @@
 
   ## Bioinformatics Cheat Sheets and Notes
 
-  This section gathers memo sheets, command references, and practical notes useful for everyday bioinformatics work.
+  This section gathers memo sheets, command references, and notes for bioinformatics 
   - [CONDA_sheet](https://github.com/BaptisteHerlemont/CONDA_sheet)
   - [DOCKER_sheet](https://github.com/BaptisteHerlemont/DOCKER_sheet)
   - [linux-archives_commands](https://github.com/BaptisteHerlemont/linux-archives_commands)
@@ -21,7 +21,7 @@
 
   ## Previous Professional Experience
 
-  This section highlights repositories connected to projects, tools, or work produced during previous professional experiences.
+  This section highlights work produced during previous professional experiences.
 
   - [Apprenticeship_2023_2025_Panzone](https://github.com/BaptisteHerlemont/Apprenticeship_2023_2025_Panzone)
   - [Internship_2023_SLU_Moose](https://github.com/BaptisteHerlemont/Internship_2023_SLU_Moose)
