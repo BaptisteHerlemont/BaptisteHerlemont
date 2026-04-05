@@ -1,6 +1,4 @@
 
-  This profile brings together several types of projects: bioinformatics tools, bioinformatics cheat sheets and technical notes, work related to previous professional experiences, personal projects outside
-  bioinformatics, and a collection of training resources.
 
   ## Bioinformatics Projects
 
