@@ -25,7 +25,6 @@
 
   - [Apprenticeship_2023_2025_Panzone](https://github.com/BaptisteHerlemont/Apprenticeship_2023_2025_Panzone)
   - [Internship_2023_SLU_Moose](https://github.com/BaptisteHerlemont/Internship_2023_SLU_Moose)
-  - [Bastick](https://github.com/BaptisteHerlemont/Bastick)
 
   ## Personal Projects
 
